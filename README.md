@@ -19,6 +19,7 @@
 <a href="https://stackoverflow.com/users/31287576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31287576" height="30" width="40" /></a>
 <a href="https://fb.com/bahaaa316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahaaa316" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedbahaaa316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedbahaaa316" height="30" width="40" /></a>
+<a href="https://discord.gg/fuhror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fuhror" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
